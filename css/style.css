@@ -1,0 +1,49 @@
+.fact {
+	color: #8758FF;
+}
+.title p {
+	color: #F94892;
+}
+.caption {
+	color: #FBDF07;
+}
+li {
+	color: #FF7F3F;
+}
+#title-second {
+	color: #277BC0;
+}
+p.text {
+	color: #FBDF07;
+}
+#title-third {
+	color: #874C62;
+}
+.desc,
+.desc-second {
+	color: #319DA0;
+}
+.wrap .content{
+	color: #8479E1;
+}
+.title-fourth {
+	color: #066163;
+}
+.wrapper * {
+	color: #D07000;
+}
+.wrap-second>p {
+	color: #FBDF07;
+}
+.subtitle~p {
+	color: #8479E1;
+}
+.galley+p {
+	color: #1CD6CE;
+}
+.copyright.copy {
+	color: #D61C4E;
+}
+.footer {
+	color: #3AB4F2;
+}
